@@ -19,3 +19,19 @@ fit-friend/
 ├── fit_friend.py    # WellnessBot Logic & Groq Integration
 ├── .env                # API Credentials (Protected)
 └── requirements.txt    # Dependency Manifest
+```
+
+## To get and run the project
+### Clone & Install:
+
+Bash
+
+```pip install -r requirements.txt```
+
+Set API Key: Add your GROQ_API_KEY to the .env file.
+
+### Launch:
+
+Bash
+
+```streamlit run app.py```
