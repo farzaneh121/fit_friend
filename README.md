@@ -16,6 +16,6 @@ This project highlights advanced AI application development skills:
 ```text
 fit-friend/
 ├── app.py              # Advanced Streamlit UI (Sidebar, Chat Buffers)
-├── chatbot_brain.py    # WellnessBot Logic & Groq Integration
+├── fit_friend.py    # WellnessBot Logic & Groq Integration
 ├── .env                # API Credentials (Protected)
 └── requirements.txt    # Dependency Manifest
